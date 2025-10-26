@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-[banner](images/banner.jpg)
+![banner](images/banner.jpg)
 
 A modern, responsive e-commerce landing page showcasing products across multiple categories including electronics, home appliances, home decor, and fashion.
 
